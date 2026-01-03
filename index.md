@@ -9,3 +9,6 @@ var myVar = "Hello, world!";
 ``` python
 myVar = "Hello, world!"
 ```
+
+- [x] Setup GitHub profile
+- [ ] Finish the markdown course
